@@ -1,6 +1,8 @@
 # Forecasting_Electricity_Weather
 Repository that contains two data science notebooks which analyse and model forecasts for electricity load and weather data.
 
+Written in Python and SQL - using Pandas and Prophet.
+
 For interactive version, please visit:
 
 https://www.kaggle.com/alcheng10/weather-forecasting
